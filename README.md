@@ -5,7 +5,7 @@ _Merging science with machine learning to shape the future of healthcare_
 
 Hi, I'm Akshara!  
 I'm a Master's graduate in **Biomanufacturing** with hands-on experience in upstream and downstream processing, process validation, and digital systems (MES, PI Vision, SAP).  
-Now, I'm diving into the world of **AI/ML** to apply data-driven solutions in **biotech and pharma** — where innovation matters most.
+Now, I'm diving into the world of **AI/ML** to apply data-driven solutions in **biotech and pharma**, where innovation matters most.
 
 I believe in bringing **biology, coding, and creativity** together to make bioprocessing smarter, faster, and more sustainable. 🌱
 ## ✨ Let's Connect
