@@ -10,6 +10,7 @@ Now, I'm diving into the world of **AI/ML** to apply data-driven solutions in **
 I believe in bringing **biology, coding, and creativity** together to make bioprocessing smarter, faster, and more sustainable. 🌱
 ## ✨ Let's Connect
 🔗 [LinkedIn] (https://www.linkedin.com/in/akshara-dhayanidhi-a9a32oo2)
+
 If you're working at the intersection of **biology + AI**, let's talk! I’m always open to collaboration, learning, and building something meaningful.
 <!---
 Akshara0903/Akshara0903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
